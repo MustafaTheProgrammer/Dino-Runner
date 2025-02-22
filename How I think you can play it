@@ -1,0 +1,5 @@
+1. download the file here, DinoRunner.java
+2. download the Java SDK that I think is called JDK
+3. go into terminal
+4. compile program with javac DinoRunner.java
+5. run program with java DinoRunner
